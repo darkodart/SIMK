@@ -34,7 +34,7 @@
               <!-- Logo -->
               <a href="#home"><img src="img/bg-img/logo.png" class="img-fluid logo-width" alt="Brand Logo" /></a>
               <a href="#home">
-                <h4 class="logo-font mt-2 ml-1">D-Klinik</h4>
+                <h4 class="logo-font mt-2 ml-1">KLINIK BERKAH BUNDA</h4>
               </a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ca-navbar" aria-controls="ca-navbar" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
